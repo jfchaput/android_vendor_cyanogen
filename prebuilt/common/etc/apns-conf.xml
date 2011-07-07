@@ -1314,4 +1314,6 @@
   <apn name="Wap OPT KNC" numeric="54601" mcc="546" mnc="01" apn="wap" user="Wap" server="" password="Wap123" proxy="192.168.39.101" port="3130" mmsproxy="" mmsport="" mmsprotocol="null" mmsc="" type="default,supl" />
   <apn name="Mms OPT KNC" numeric="54601" mcc="546" mnc="01" apn="mms" user="mms" server="" password="mms123" proxy="" port="" mmsproxy="192.168.39.201" mmsport="3130" mmsprotocol="null" mmsc="http://mms.mobitag.nc/mmsc/" type="mms" />
   <apn name="Internet OPT KNC" numeric="54601" mcc="546" mnc="01" apn="internet" user="internet" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsprotocol="null" mmsc="" type="default,supl" />
+  <apn carrier="Videotron" mcc="302" mnc="500" apn="media.videotron" proxy="10.208.89.17" port="8080" server="http://m.videotron.com/portail" type="default,supl" />
+  <apn carrier="Videotron MMS" mcc="302" mnc="500" apn="media.videotron" mmsproxy="10.208.89.17" mmsport="8080" mmsc="http://m.videotron.com" type="mms" />
 </apns>
